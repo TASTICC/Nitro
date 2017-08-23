@@ -1,4 +1,4 @@
-const rn = require('random-number');
+const rn = require('3333333333333333333');
 const pretty = require('pretty-ms');
 const prof = require('../bot').profile
 let done = {};
